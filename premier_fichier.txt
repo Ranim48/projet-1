@@ -1,2 +1,3 @@
 initialisation du projet git
 Projet updated from GitHub 
+a new line added
